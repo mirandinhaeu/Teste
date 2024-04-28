@@ -1,0 +1,5 @@
+:root{background-color: #00a2e8;}
+.center{justify-content: center;
+        display: flex;
+}
+h1{text-align: center;}
